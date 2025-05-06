@@ -1,0 +1,9 @@
+ipykernel
+pandas
+numpy
+matplotlib
+statsmodels
+tensorflow
+scipy
+pytest
+mlflow

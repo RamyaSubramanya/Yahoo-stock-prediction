@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Data%20Science/Time%20Series%20Forecasting%20%28TSA%20models%20%26%20RNN%20LSTM%29/TSA%20practicals/Yahoo%20stock%20price%20%28Refer%20this%29/mlruns/0/370cbdb181f944b18e4b972080fe733b/artifacts
+end_time: 1746542145637
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 370cbdb181f944b18e4b972080fe733b
+run_name: flawless-dog-448
+run_uuid: 370cbdb181f944b18e4b972080fe733b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746542145569
+status: 3
+tags: []
+user_id: Ramya
