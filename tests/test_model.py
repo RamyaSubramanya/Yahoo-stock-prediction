@@ -1,5 +1,6 @@
 from src.pipeline import load_and_prepare, split_train_test
 from src.modelling import build_model
+import kagglehub
 
 
 def test_model():
