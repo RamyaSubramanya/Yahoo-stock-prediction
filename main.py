@@ -1,6 +1,6 @@
 import sys
 import os
-sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), 'src')))
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '.')))
 
 from src.pipeline import load_and_prepare, split_train_test
 from src.modelling import build_model
