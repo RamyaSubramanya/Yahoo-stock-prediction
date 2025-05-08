@@ -83,5 +83,5 @@ def split_train_test(data, target_column):
 
     # test_data_exog = test_data.drop(columns=[target_column])
     # test_data_exog = test_data_exog.loc[test_data_exog.index]
-
+    print("Data has been split into train, test")
     return train_data, test_data
