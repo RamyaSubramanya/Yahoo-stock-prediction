@@ -1,6 +1,13 @@
+import sys
+import os
+
+# Add the root directory to the Python path
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+
 from src.pipeline import load_and_prepare, split_train_test
 from src.modelling import build_model
 import kagglehub
+import pandas as pd
 
 
 def test_model():

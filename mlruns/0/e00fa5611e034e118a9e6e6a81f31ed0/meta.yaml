@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Data%20Science/Time%20Series%20Forecasting%20%28TSA%20models%20%26%20RNN%20LSTM%29/TSA%20practicals/Yahoo%20stock%20price%20%28Refer%20this%29/mlruns/0/e00fa5611e034e118a9e6e6a81f31ed0/artifacts
+end_time: 1746693948352
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e00fa5611e034e118a9e6e6a81f31ed0
+run_name: loud-cod-803
+run_uuid: e00fa5611e034e118a9e6e6a81f31ed0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746693948259
+status: 3
+tags: []
+user_id: Ramya
